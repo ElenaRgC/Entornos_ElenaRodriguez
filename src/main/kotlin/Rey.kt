@@ -1,0 +1,3 @@
+class Rey {
+    var nombre = ""
+}
